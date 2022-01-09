@@ -1,3 +1,4 @@
+
 // constants
 import Web3EthContract from "web3-eth-contract";
 import Web3 from "web3";
@@ -54,7 +55,7 @@ export const connect = () => {
         if (networkId == 1) {
           const SmartContractObj = new Web3EthContract(
             SmartContract,
-            "0x688db0131c807a3495c23bc1b25726a76ea31f49"
+            "0x495f947276749ce646f68ac8c248420045cb7b5e"
           );
           dispatch(
             connectSuccess({
