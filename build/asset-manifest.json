@@ -16,9 +16,9 @@
     "static/media/example.c9eba7c4.gif": "/static/media/example.c9eba7c4.gif"
   },
   "entrypoints": [
-    "/static/js/runtime-main.13d681c2.js",
-    "/static/js/2.99353e92.chunk.js",
-    "/static/css/main.51fa0b2f.chunk.css",
-    "/static/js/main.f37ba8e9.chunk.js"
+    "static/js/runtime-main.13d681c2.js",
+    "static/js/2.99353e92.chunk.js",
+    "static/css/main.51fa0b2f.chunk.css",
+    "static/js/main.f37ba8e9.chunk.js"
   ]
 }
